@@ -1,0 +1,7 @@
+{
+  "bearer_token": "TODO_TODO_TODOTODOTODO_TODOTODO_TODO",
+  "start_time": "2022-05-08T00:00:00",
+  "max_tweets_per_req": 100,
+  "mentions": ["TwitterDev", "TwitterAPI"],
+  "timeout_ms": 1000
+}
